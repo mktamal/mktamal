@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am <b>Mahmud Khalil Al-Tamal</b>. I'm currently working on Mobile Development and Web App Development. As a mobile app developer I use Flutter which is a framework for cross-platform native app development and I love it. For App Development, I use .Net Core MVC.
 
 <!--
 **mktamal/mktamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
