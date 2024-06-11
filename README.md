@@ -8,7 +8,7 @@ I am <b>Mahmud Khalil Al-Tamal</b>. I'm currently working on Mobile Development 
 - Knowledge of RESTful web services/API
 - Good problem-solving skill
 - Figma for UI/UX
-- Proper knowledge of GitHub
+- Knowledge of GitHub
 - Know about business analysis
 
 ## About Me
