@@ -2,11 +2,11 @@
 I am <b>Mahmud Khalil Al-Tamal</b>. I'm currently working on Mobile Development and Web App Development. As a mobile app developer I use Flutter which is a framework for cross-platform native app development and I love it. For App Development, I use .Net Core MVC.
 
 ### Skills I have:
-- Languages: C#, Dart
-- Frameworks: Flutter, .Net Core MVC
-- Database: MySQL, SQL Server
-- Knowledge of RESTful web services/API
-- Good problem-solving skill
+- Languages: C#, Dart, Python
+- Frameworks: Flutter, .Net Core MVC, Django
+- Database: MySQL, SQL Server, Postgresql
+- RESTful web services/API
+- Problem-solving skill
 - Figma for UI/UX
 - Knowledge of GitHub
 - Know about business analysis
